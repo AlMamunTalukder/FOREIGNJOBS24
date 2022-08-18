@@ -1,0 +1,77 @@
+.page_table {
+    background: white;
+    padding: 5%;
+}
+.table th, .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #eceeef;
+    text-align: center;
+}
+.menu_add_form {
+    background: white;
+    padding: 5%;
+}
+.card.card-block.sameheight-item {
+    padding: 8%;
+    border: 1px solid #e0dcdc;
+}
+.genral_setting {
+    padding: 10%;
+  
+}
+.logo_view {
+    border: 1px solid #d0c9c9;
+    padding: 5%;
+    width: 50%;
+}
+.feature_image {
+    border: 1px solid #d0c9c9;
+    padding: 5%;
+    width: 50%;
+}
+.card.page_add_menu {
+    border: 1px solid #e6e2e2;
+    padding: 5%;
+}
+.add_btn {
+    margin-left: 35%;
+}
+.col-md-4.add_menu_col {
+    border-right: 1px solid #d4d3d3;
+}
+hr.menu_add_hr {
+    border: none;
+    height: 5px;
+    color: #ded9d9;
+    background-color: #ded9d9;
+}
+
+
+/*
+-------------------------------------------
+	2. Pagenavi Style
+-------------------------------------------
+*/
+.paginate { font-family: Arial, Helvetica, sans-serif; padding: 3px; margin: 3px; }
+.paginate a { padding: 8px 10px 8px 10px; margin: 3px; border-radius:3px; background:#3a4651; text-decoration: none; color: #ffffff !important; }
+.paginate a:hover, .paginate a:active { background:#37a000; color: #ffffff !important; }
+.paginate span.current { padding: 8px 10px 8px 10px; margin: 3px; border-radius:3px; background-color: #37a000; color: #FFF; }
+.paginate span.disabled { padding: 8px 10px 8px 10px; margin: 3px; color: #DDD; border-radius:3px; background-color: #ff4444; }
+body{
+	background-color: #fff;
+}
+body.loginbody{
+	background: url(../images/admin-bg.jpg);
+}
+.log_txt.s2 {
+    color: #333;
+    background: #fff;
+    padding: 1px;
+    margin-top: 15px;
+    text-align: center;
+}
+.saz_lg_overlay{
+	background: rgba(255, 255, 255, 0.45);
+	border:2px solid #FFF;
+}
